@@ -1,0 +1,5 @@
+[2025-08-13 15:28:34,462] 25 root - INFO - Entered the data ingestion method
+[2025-08-13 15:28:34,478] 28 root - INFO - Read the dataset
+[2025-08-13 15:28:34,490] 34 root - INFO - Train Test Split
+[2025-08-13 15:28:34,502] 41 root - INFO - Ingestion of Data is completed
+[2025-08-13 15:28:34,537] 44 root - INFO - Encoding completed
