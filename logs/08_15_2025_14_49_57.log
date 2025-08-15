@@ -1,0 +1,8 @@
+[2025-08-15 14:49:57,363] 224 werkzeug - WARNING -  * Debugger is active!
+[2025-08-15 14:49:57,376] 224 werkzeug - INFO -  * Debugger PIN: 102-798-266
+[2025-08-15 14:50:02,436] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\SNEHAL\\PycharmProjects\\DataScienceProject\\venv\\Lib\\ctypes\\_aix.py', reloading
+[2025-08-15 14:50:02,438] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\snehal\\pycharmprojects\\datascienceproject\\venv\\Lib\\ctypes\\_aix.py', reloading
+[2025-08-15 14:50:02,442] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\SNEHAL\\PycharmProjects\\DataScienceProject\\venv\\Lib\\mailbox.py', reloading
+[2025-08-15 14:50:02,444] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\snehal\\pycharmprojects\\datascienceproject\\venv\\Lib\\mailbox.py', reloading
+[2025-08-15 14:50:02,450] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\SNEHAL\\PycharmProjects\\DataScienceProject\\venv\\Lib\\idlelib\\idle_test\\mock_idle.py', reloading
+[2025-08-15 14:50:02,450] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\snehal\\pycharmprojects\\datascienceproject\\venv\\Lib\\idlelib\\idle_test\\mock_idle.py', reloading
